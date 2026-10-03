@@ -9,7 +9,7 @@ This repository houses the coursework, lab files, and lecture tracking for the *
 
 ## 🗂️ Repository Outline
 * `/lectures`: Lecture slides, core algorithms, and concept notes.
-* `/labs`: Weekly Python implementations covering data analysis and modeling.
+* `/labs`: Weekly Python implementations covering data analysis and modeling. 
 * `/final-project`: Dedicated workspace for the end-of-semester ML application.
 
 ## 🛠️ Required Packages
