@@ -5,7 +5,7 @@ This repository houses the coursework, lab files, and lecture tracking for the *
 ## 🏫 Academic Context
 * **Institution:** Sukkur IBA University [Sukkur IBA University](https://www.iba-suk.edu.pk/)
 * **Department:** Computer Science / Software Engineering
-* **Environment:** Python (Jupyter Notebooks)
+* **Environment:** Python (Jupyter Notebooks) 
 
 ## 🗂️ Repository Outline
 * `/lectures`: Lecture slides, core algorithms, and concept notes.
